@@ -1,5 +1,5 @@
 - Average Starblast Modder and Coder, feel free to ask any questions relating to Starblast Modding or Coding
-- Discord: \@Bhpsngum\#2623
+- Discord: \@Bhpsngum\#2623 or \@bhpsngum
 
 <!---
 Bhpsngum/Bhpsngum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
